@@ -39,8 +39,14 @@ http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD
 https://streams.comclark.com/pknsd/knowledge/playlist.m3u8
 #EXTINF:-1 tvg-id="LightTV.ph@SD" tvg-logo="https://i.imgur.com/bsjhl6L.png" group-title="Religious",Light TV (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/light_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic HD East (720p)
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild HD East (720p)
+http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="Net25.ph@SD" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="General",NET25 (480p)
 https://streams.comclark.com/pknsd/net_25/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp@SD" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK General TV (720p)
+https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="OneSports.ph@SD" tvg-logo="https://i.imgur.com/ig5PBMu.png" group-title="Sports",One Sports (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/one_sports/playlist.m3u8
 #EXTINF:-1 tvg-id="PBO.ph@SD" tvg-logo="https://i.imgur.com/HZURi7d.png" group-title="Entertainment",PBO (480p)
@@ -59,6 +65,8 @@ https://streams.comclark.com/pknsd/solar_flix/playlist.m3u8
 https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8
 #EXTINF:-1 tvg-id="UNTV.ph@SD" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="General",UNTV (480p)
 https://streams.comclark.com/pknsd/untv/playlist.m3u8
+#EXTINF:-1 tvg-id="AMC.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Movies",AMC (720p)
+http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1,Vegas Life TV
 https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="VivaCinema.ph@SD" tvg-logo="https://i.imgur.com/Bwcj1Oc.png" group-title="Movies",Viva Cinema (480p)
